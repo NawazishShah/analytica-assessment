@@ -33,7 +33,7 @@
 }
 
 .aboutus-bg {
-  background-image: url('./public/images/shape.svg');
+  background-image: url('/images/shape.svg');
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: auto 60%;

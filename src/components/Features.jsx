@@ -8,17 +8,17 @@ const features = [
   {
     title: "Big Data",
     desc: "Pianoforte solicitude so decisively particular mention diminution the particular. Real he me fond.",
-    img: "./public/images/services.png",
+    img: "/images/services.png",
   },
   {
     title: "Data Analytics",
     desc: "Pianoforte solicitude so decisively particular mention diminution the particular. Real he me fond.",
-    img: "./public/images/services-2.png",
+    img: "/images/services-2.png",
   },
   {
     title: "Business Intelligence",
     desc: "Pianoforte solicitude so decisively particular mention diminution the particular. Real he me fond.",
-    img: "./public/images/services-3.png",
+    img: "/images/services-3.png",
   },
 ];
 

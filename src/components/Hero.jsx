@@ -56,7 +56,7 @@ const Hero = () => {
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1.2, delay: 0.5 }}
-            src="./public/images/hero-image.png"
+            src="/images/hero-image.png"
             alt="Data Science Illustration"
             className="w-full max-w-sm sm:max-w-md lg:max-w-xl h-auto hover:scale-110 transition-transform duration-300 ease-out cursor-pointer"
           />

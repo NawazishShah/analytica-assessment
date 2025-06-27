@@ -77,7 +77,7 @@ const Footer = () => {
   return (
     <footer ref={footerRef} className="relative bg-gradient-to-br from-gray-50 to-white pt-16 lg:pt-20 pb-8 lg:pb-12 overflow-hidden">
 
-      <div className="absolute inset-0 bg-[url('/public/images/shape-2.svg')] bg-no-repeat bg-bottom bg-contain opacity-5" />
+      <div className="absolute inset-0 bg-[url('/images/shape-2.svg')] bg-no-repeat bg-bottom bg-contain opacity-5" />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12 pb-12 lg:pb-16">

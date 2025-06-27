@@ -33,7 +33,7 @@ const AboutUs = () => {
           <div className="relative w-full h-[250px] sm:h-[300px] md:h-[350px] lg:h-[450px] rounded-lg order-2 lg:order-1">
             <motion.img
               style={{ y: imageY, transformOrigin: 'center center' }}
-              src="./public/images/about-us.png"
+              src="/images/about-us.png"
               alt="Modern office building"
               className="w-full h-full object-contain object-center hover:scale-110 transition-transform duration-300 ease-out cursor-pointer"
             />
